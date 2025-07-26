@@ -67,7 +67,6 @@ That’s it! No server or dependencies required.
 ## 🙋‍♀️ Author
 
 **Vaishnavi**  
-🔗 [GitHub Profile](https://github.com/45Vaishnavi)
 
 ---
 

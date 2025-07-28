@@ -1,5 +1,5 @@
 
-# 📝 Todo List App
+# 📝 Todo List App (Web app)
 
 A simple and user-friendly Todo List web application to help you manage your daily tasks. Built using **HTML**, **CSS**, and **JavaScript**.
 
